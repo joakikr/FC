@@ -1,0 +1,159 @@
+
+flappy_chu_assets.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+creepyash
+  rotate: false
+  xy: 516, 136
+  size: 250, 226
+  orig: 250, 226
+  offset: 0, 0
+  index: -1
+forest
+  rotate: false
+  xy: 2, 364
+  size: 480, 640
+  orig: 480, 640
+  offset: 0, 0
+  index: -1
+pika1
+  rotate: false
+  xy: 888, 170
+  size: 118, 78
+  orig: 118, 78
+  offset: 0, 0
+  index: -1
+pika2
+  rotate: false
+  xy: 304, 52
+  size: 118, 80
+  orig: 118, 80
+  offset: 0, 0
+  index: -1
+pika3
+  rotate: false
+  xy: 768, 154
+  size: 118, 94
+  orig: 118, 94
+  offset: 0, 0
+  index: -1
+pika4
+  rotate: false
+  xy: 184, 35
+  size: 118, 97
+  orig: 118, 97
+  offset: 0, 0
+  index: -1
+play
+  rotate: false
+  xy: 2, 20
+  size: 180, 112
+  orig: 180, 112
+  offset: 0, 0
+  index: -1
+playPress
+  rotate: false
+  xy: 768, 250
+  size: 180, 112
+  orig: 180, 112
+  offset: 0, 0
+  index: -1
+score
+  rotate: false
+  xy: 2, 234
+  size: 512, 128
+  orig: 512, 128
+  offset: 0, 0
+  index: -1
+thunderbolt
+  rotate: false
+  xy: 2, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+thunderboltbg1
+  rotate: false
+  xy: 484, 364
+  size: 480, 640
+  orig: 480, 640
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 2, 134
+  size: 404, 98
+  orig: 404, 98
+  offset: 0, 0
+  index: -1
+
+flappy_chu_assets2.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+greatball
+  rotate: false
+  xy: 484, 451
+  size: 132, 447
+  orig: 132, 447
+  offset: 0, 0
+  index: -1
+greatballFlipped
+  rotate: false
+  xy: 618, 451
+  size: 132, 447
+  orig: 132, 447
+  offset: 0, 0
+  index: -1
+masterball
+  rotate: false
+  xy: 752, 451
+  size: 132, 447
+  orig: 132, 447
+  offset: 0, 0
+  index: -1
+masterballFlipped
+  rotate: false
+  xy: 886, 451
+  size: 132, 447
+  orig: 132, 447
+  offset: 0, 0
+  index: -1
+pokeball
+  rotate: false
+  xy: 484, 2
+  size: 132, 447
+  orig: 132, 447
+  offset: 0, 0
+  index: -1
+pokeballFlipped
+  rotate: false
+  xy: 618, 2
+  size: 132, 447
+  orig: 132, 447
+  offset: 0, 0
+  index: -1
+thunderboltbg2
+  rotate: false
+  xy: 2, 258
+  size: 480, 640
+  orig: 480, 640
+  offset: 0, 0
+  index: -1
+ultraball
+  rotate: false
+  xy: 752, 2
+  size: 132, 447
+  orig: 132, 447
+  offset: 0, 0
+  index: -1
+ultraballFlipped
+  rotate: false
+  xy: 886, 2
+  size: 132, 447
+  orig: 132, 447
+  offset: 0, 0
+  index: -1
